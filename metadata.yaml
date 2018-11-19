@@ -1,0 +1,26 @@
+_repo: Elamani_58278
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hindenburg, Paul von
+    aliases:
+    - Beneckendorff und von Hindenburg, Paul Ludwig Hans Anton von
+    - Von Hindenburg, Paul
+    birthdate: 1847
+    deathdate: 1934
+    gutenberg_agent_id: '34777'
+    url: http://www.gutenberg.org/2009/agents/34777
+    wikipedia: http://de.wikipedia.org/wiki/Paul_von_Hindenburg
+description: ''
+gutenberg_issued: '2018-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58278'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elämäni
+url: http://www.gutenberg.org/ebooks/58278
